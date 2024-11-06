@@ -1,0 +1,21 @@
+.navbar-container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px;
+    width:80vw;
+}
+.navbar-left h1{
+    font-size: 22px;
+}
+.navbar-right ul{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar-right li{
+    padding-right: 50px;
+    font-weight: 500;
+    list-style: none;
+    
+}

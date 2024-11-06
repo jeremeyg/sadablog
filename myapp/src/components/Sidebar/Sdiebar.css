@@ -1,0 +1,17 @@
+:root{
+    --whitish:rgb(249,249,249); 
+    --grayish-white:   rgb(243,243,243);
+  }
+
+.main-left-category{
+    background-color: var(--whitish);
+    margin-top: 42px;
+    padding: 20px 40px;
+}
+.main-left-category h1{
+    padding: 10px;
+}
+
+.main-left-category li{
+    padding: 2px 5px;
+}
